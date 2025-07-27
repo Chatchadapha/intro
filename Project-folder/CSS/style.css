@@ -1,0 +1,162 @@
+
+        body {
+            font-family: 'Sarabun', sans-serif;
+            background: #fae5d4;
+        }
+        .head1 {
+            color: rgb(240, 228, 215);
+            font-size: large;
+            background-color: #f4824e;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .imgkmutnb {
+            text-align: center;
+            padding-top: 2%;
+        }
+
+        .course {
+            
+            padding-left: 26%;
+            padding-right: 26%;
+            padding-top: 1%;
+        }
+
+        .btn {
+            justify-content: center;
+            display: flex;
+            gap: 20px;
+            margin: 40px;
+            
+        }
+
+        .btn button{
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #f19469;
+            border-radius: 10px;
+            border: 0 ;
+            color: #FFFF;
+        }
+
+        .btn button:hover{
+            background-color: #ffffff;
+            color: #f4824e;
+        }
+
+       
+
+
+
+
+
+
+
+
+
+        
+        .myprofile {
+            background:linear-gradient(to right, #d1e8f5, #d98cea);
+        }
+
+        .h2 {
+            color: rgb(240, 228, 215);
+            font-size: large;
+            background: linear-gradient(to right, #65027b, #e391b9);
+            padding: 10px;
+            text-align: center;
+        }
+
+        .record {
+            padding-left: 33%;
+            padding-right: 33%;
+            padding-top: 2%;
+        }
+
+        .images{
+            justify-content: center;
+            display: flex;
+            gap: 20px;
+        } 
+
+        .images img{
+            border-radius: 5%;
+            box-shadow: 10%;
+        }
+        
+        .btn1 {
+            justify-content: center;
+            display: flex;
+            gap: 20px;
+            margin: 40px;
+            
+        }
+
+        .btn1 button{
+            color: #d1e8f5;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #d146ce;
+            border-radius: 10px;
+            border: 0 ;
+        }
+
+        .btn1 button:hover{
+            background-color: #ffffff;
+            color: #d146ce;
+        }
+
+       
+
+
+    
+        .subject {
+            background-color: rgb(255, 255, 255);
+        }
+
+        tr {
+            text-align: center;
+        }
+
+        table {
+            width: 100%;
+            height: 450px;
+            border-collapse: collapse;
+        }
+
+        .tr-1 {
+            background-color: rgb(229, 235, 235);
+        }
+
+        .td-left {
+            text-align: left;
+            padding-left: 2%;
+            
+        }
+
+        .sj {
+            text-align: center;
+        }
+
+        
+        .btn2 {
+            justify-content: center;
+            display: flex;
+            gap: 20px;
+            margin: 40px;
+            
+        }
+
+        .btn2 button{
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #bcc2ff;
+            border-radius: 5%;
+            border: 0 ;
+        }
+
+        .btn2 button:hover{
+            background-color: #c3e2f3;
+            color: #888585;
+        }
